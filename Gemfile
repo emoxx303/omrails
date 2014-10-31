@@ -28,6 +28,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
+gem 'rails_12factor'
 
 
 # To use ActiveModel has_secure_password
